@@ -20,3 +20,7 @@ body:
     attributes:
       label: 🙋🏻 참고 자료
       description: 참고 자료가 있다면 작성해 주세요.
+  - type: textarea
+    attributes:
+      label: ⏳ 예상 기간
+      description: 00월 00일~ 00월 00일
